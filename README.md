@@ -4,12 +4,11 @@ This repository contains a machine learning project aimed at classifying whether
 The goal is to leverage various machine learning algorithms to predict the likelihood of bankruptcy for companies using historical financial data
 ## Project Structure
 The Project is structured as follows:
-- data/:  Directory containing the dataset used for training and testing the model.
-- notebooks/: Jupyter notebooks illustrating the data exploration, feature engineering , and model training processes.
-- scripts/:Python scripts for data preprocessing, model training and evaluation.
-- models/: Saved models for deployment and further analysis.
-- Results/: Directory for storing results and evaluation metrics
-- README.md:This file
+
+- Bankruptcy_data.ipynb/: Jupyter notebooks illustrating the data exploration, feature engineering , and model training processes.
+ - README.md:This file
+
+
 
 ## Dataset 
 The dataset used in this project consists of various financial ratios for multiple companies over a period of time.
