@@ -24,4 +24,4 @@ The target variable indicates whether a company went bankrupt or not. Key financ
 
 ## Results 
 The results of the model training and evaluation, including key metrics such as accuracy, precision, recall, and F1-score, are stored in the results/ directory. 
-Visualization of model performance can be found in the Jupyter notebooks within the notebooks/ directory.
+Visualization of model performance can be found in the Jupyter notebooks within the Bankruptcy_data.ipynb/ directory.
